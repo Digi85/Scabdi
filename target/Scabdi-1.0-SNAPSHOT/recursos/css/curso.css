@@ -1,0 +1,51 @@
+.cont_clas {
+    padding: 0 20px;
+    display: flex;
+}
+
+.flex-column {
+    background-color: #6a6464;
+    flex: 3;
+}
+
+.tab-content {
+    flex: 9
+}
+
+.cursos {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    background-color: #403a3a;
+}
+
+.nav-pills .nav-link {
+    color: white;
+    border-radius: 0 !important;
+    background-color: #6b6464;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #d44a48;
+}
+
+.card {
+    margin: 10px 5px;
+}
+
+.card-header {
+    background-color: #6a6464;
+}
+
+.btn-link {
+    color: white;
+}
+
+.clases_vivo {
+    display: none;
+}
