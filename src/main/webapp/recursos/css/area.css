@@ -1,0 +1,49 @@
+header{
+    width: 100%;
+    height: 150px;
+    display: flex;   
+    justify-content: flex-end;
+    background-color:rgb(166, 245, 166);
+}
+.cabeza{
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo_cabezera{
+    width: 200px;
+    justify-content: center;
+}
+.usuario{
+width: 150px;
+height: 100px;
+background-color: blueviolet;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(29, 27, 27, 0.733);
+}
+.submenu{
+    display: flex;
+}
+.boddy{
+    width: 80%;
+}
+.cuerpo{
+    width: 100%;
+    display: flex;
+}
+.video{
+ padding: 10px;
+}   
+.contenido{
+width: 35%;
+padding: 10px;
+}
+.clases{
+    height: 300px;
+    padding: 8px;
+}
